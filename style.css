@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+    background-color: #E0FFFF;
+}
+
+header {
+    background-color: SkyBlue ;
+    font-size: 20px ;
+}
+
+header img {
+    padding: 5px ;
+}
+
+h1 {
+    color: chocolate ;
+
+}
+
+footer {
+  color: darkorange;
+
+}
+nav a {
+    color: rgb(255, 255, 255) ;
+    text-decoration: none ;
+    padding: 15px ;
+    margin: 35px ;
+    border: 1px solid rgb(108, 86, 189) ;
+    border-radius: 15px ;
+    background-color: rgb(108, 86, 189) ;
+}
+
+main img {
+    background-color: orange;
+    border-radius: 17px ;
+}
+
+main p {
+    background-color: orange;
+    border-radius: 17px ;
+}
